@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deponte-designer a Graphic Designer living in London.
+- 👋 Hi, I’m a Graphic Designer && Front-End Developer based in London.
 - 👀 I’m interested and curious in UI/UX Design.
 - 🌱 I’m currently learning Skills Bootcamp Front-End Web Development.
 - 💞️ I’m looking to collaborate on ...
