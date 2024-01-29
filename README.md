@@ -10,8 +10,7 @@ I'm a passionate Front-End Web Developer with a creative twist, boasting over a 
 - 👀 I’m interested in Web Development also curious in UI/UX Design.
 - 🌱 I’m currently learning Skills Bootcamp Front-End Web Development.
 - 💞️ I’m looking to collaborate on projects that need a creative twist specially in CSS and HTML, using Bootstrap, WordPress, Wix and Joomla.
-- 📫 How to reach me: /deponte-designer
-
+- 📫 How to reach me: /deponte-designer  
 
 <!---
 Old Projects: https://pvnaescola.blogspot.com/ | https://atuavez3.wordpress.com/
@@ -29,9 +28,8 @@ Old Projects: https://pvnaescola.blogspot.com/ | https://atuavez3.wordpress.com/
 [![](https://visitcount.itsvg.in/api?id=deponte-designer&label=Who's%20watching&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)  
 
 <br>
-<br>
 
-<h2 align="center">Languages, Frameworks, and Libraries</h2>  
+<h2 align="center">Languages, Frameworks and Libraries</h2>  
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,10 +38,11 @@ Old Projects: https://pvnaescola.blogspot.com/ | https://atuavez3.wordpress.com/
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 <!---
 jQuery, React
 --->
@@ -65,6 +64,7 @@ jQuery, React
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
