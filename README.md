@@ -23,9 +23,8 @@ Old Projects: https://pvnaescola.blogspot.com/ | https://atuavez3.wordpress.com/
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=deponte-designer&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Sofia's GitHub languages" /></p>  
 
-<p align="center"><img src="https://visitcount.itsvg.in/api?id=deponte-designer&icon=5&color=5" alt="Sofia's GitHub profile views" /></p>  
+<p align="center"><img src="https://visitcount.itsvg.in/api?id=deponte-designer&label=Who's%20watching&icon=5&color=5&pretty=true" alt="Sofia's GitHub profile views" /></p>  
 
-[![](https://visitcount.itsvg.in/api?id=deponte-designer&label=Who's%20watching&color=5&icon=5&pretty=true)](https://visitcount.itsvg.in)  
 
 <br>
 
