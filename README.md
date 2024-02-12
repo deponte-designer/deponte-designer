@@ -5,7 +5,7 @@ I'm a passionate Front-End Web Developer with a creative twist, boasting over a 
 💻 My code is as clean as my design aesthetics, and I thrive on turning ideas into visually stunning and functional realities.  
 
 🚀 Let's build the web together, blending the best of design and development!  
-#HTML #CSS #JavaScript #Bootstrap #jQuery #Nodejs #React #UIdesign #GraphicDesign #VisualIdentity 🌐
+#HTML #CSS #JavaScript #Bootstrap #jQuery #Nodejs #React #JavaScriptXML #UIdesign #GraphicDesign #VisualIdentity 🌐
 
 - 👀 I’m interested in Web Development also curious in UI/UX Design.
 - 🌱 I’m currently learning Skills Bootcamp Front-End Web Development.
