@@ -7,9 +7,9 @@ I'm a passionate Front-End Web Developer with a creative twist, boasting over a 
 🚀 Let's build the web together, blending the best of design and development!  
 #HTML #CSS #JavaScript #Bootstrap #jQuery #Nodejs #React #JavaScriptXML #UIdesign #GraphicDesign #VisualIdentity 🌐
 
-- 👀 I’m interested in Web Development also curious in UI/UX Design.
+- 👀 I’m interested in Web Development and also curious about UI/UX Design.
 - 🌱 I’m currently learning Skills Bootcamp Front-End Web Development.
-- 💞️ I’m looking to collaborate on projects that need a creative twist specially in CSS and HTML, using Bootstrap, WordPress, Wix and Joomla.
+- 💞️ I’m looking to collaborate on projects that need a creative twist, especially in CSS and HTML, using Bootstrap, WordPress, Shopify, Wix and Joomla.
 - 📫 How to reach me: /deponte-designer  
 
 <!---
