@@ -9,7 +9,7 @@ I'm a passionate Front-End Web Developer with a creative twist, boasting over a 
 
 - 👀 I’m interested in Web Development and also curious about UI/UX Design.
 - 🌱 I’m currently learning Skills Bootcamp Front-End Web Development.
-- 💞️ I’m looking to collaborate on projects that need a creative twist, especially in CSS and HTML, using Bootstrap, WordPress, Shopify, Wix and Joomla.
+- 💞️ I’m looking to collaborate on projects that need a creative twist, especially in CSS, Tailwind CSS and HTML, using Bootstrap, WordPress, Shopify, Wix and Joomla.
 - 📫 How to reach me: /deponte-designer  
 
 <!---
@@ -33,6 +33,7 @@ Old Projects: https://pvnaescola.blogspot.com/ | https://atuavez3.wordpress.com/
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
